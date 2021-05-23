@@ -2,37 +2,36 @@
     {
         "likes": 8,
         "id": 1,
-        "nome": "Santa Gula",
-        "site": "http://www.Santagula.com.br",
-        "categoria": "restaurante",
-        "logradouro": "Rua Cerqueira",
-        "numero": 2,
-        "bairro": "Lindoia",
-        "cidade": "Atibaia",
-        "estado": "sp"
+        "nome": "Conselho Estadual dos Direitos da Mulher/RJ ",
+        "site": " http://www.cedim.rj.gov.br/servicos.asp",
+        "categoria": "Atendimento",
+        "telefone":" 3885-4486",
+        "bairro": "Centro",
+        "cidade": "Rio de Janeiro",
+        "estado": "RJ"
+        
     },
     {
         "likes": 0,
         "id": 2,
-        "nome": "Reserva Japi",
-        "site": "http://www.revervajapi.com.br",
-        "categoria": "hotel",
-        "logradouro": "Rua Amarela",
-        "numero": 105,
-        "bairro": "Juquia",
-        "cidade": "Atibaia",
-        "estado": "sp"
+        "nome": "CONSELHO ESTADUAL DOS DIREITOS DA MULHER/PR",
+        "site": "cedm@sejuf.pr.gov.br",
+        "categoria": "Atendimento", 
+        "telefone": "41-3210-2851",
+        "bairro": "Centro",
+        "cidade": "Paraná",
+        "estado": "PR"
+        
     },
     {
         "likes": 0,
         "id": 3,
-        "nome": "Delicias da Edi",
-        "site": "http://www.revervajapi.com.br",
-        "categoria": "hotel",
-        "logradouro": "Rua Juria",
-        "numero": 22,
+        "nome": "Casa Abrigo/DF",
+        "site": "http://www.mulher.df.gov.br/casa-abrigo/",
+        "categoria": "Acolhimento",
+        "telefone": "(61) 3330-3104",
         "bairro": "Centro",
-        "cidade": "Campinas",
-        "estado": "sp"
+        "cidade": "DF",
+         "estado": "DF"
     }
 ]
