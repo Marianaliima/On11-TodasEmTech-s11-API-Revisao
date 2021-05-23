@@ -7,11 +7,11 @@ const router = express.Router()
 router.post('/criar', controller.create)
 router.get('/todos', controller.getAll)
 router.get('/:id', controller.get)
-
-router.put('/:id', controller.replace)
-router.patch('/:id', controller.update)// altera só um item
-
-
 router.delete('/:id', controller.remove)
+router.put('/:id', controller.replace)
+router.patch('/:id', controller.update)
+
+router.post('/:id/like', controller.like)
+
 
 module.exports = router
